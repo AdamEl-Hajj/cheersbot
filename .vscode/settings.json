@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\Adam\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.banditEnabled": true,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.pylamaEnabled": false
+}
