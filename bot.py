@@ -121,7 +121,7 @@ def coinBasePrice(x):
     return str(current), str(per)
 
 f = open("token.txt")
-#comment
+#another comment
 TOKEN = f.readline()
 
 bot.run(TOKEN)
