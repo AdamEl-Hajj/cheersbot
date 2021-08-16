@@ -120,4 +120,8 @@ def coinBasePrice(x):
     per = Decimal(per).quantize(TWOPLACES)
     return str(current), str(per)
 
-bot.run('ODQxMzE3NDE2NjE2NzIyNDYy.YJk_5w.JACqlaZ5E4OlvE-IsIdVp9fsQg4')
+f = open("token.txt")
+
+TOKEN = f.readline()
+
+bot.run(TOKEN)
